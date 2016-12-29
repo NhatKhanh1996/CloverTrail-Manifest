@@ -6,7 +6,6 @@
   <remove-project name="LineageOS/android_hardware_intel_img_psb_headers" />
 
   <project name="Z00D/android_device_asus_Z00D" path="device/asus/Z00D" remote="github" />
-  <project name="Z00D/android_device_asus_ctp-common" path="device/asus/ctp-common" remote="github" />
   <project name="Z00D/proprietary_vendor_asus_Z00D" path="vendor/asus/Z00D" remote="github" />
   <project name="Z00D/android_hardware_intel_common_omx-components" path="hardware/intel/common/omx-components" remote="github" />
   <project name="Z00D/android_hardware_intel_img_psb_video" path="hardware/intel/img/psb_video" remote="github" />
