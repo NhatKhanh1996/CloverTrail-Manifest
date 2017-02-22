@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <project name="zenfone-legacy/android_device_asus_T00F" path="device/asus/T00F" remote="github" />
-  <project name="zenfone-legacy/android_kernel_asus_T00F" path="kernel/asus/T00F" remote="github" />
+  <project name="ZenfoneXDAVN/android_device_asus_T00F" path="device/asus/T00F" remote="github" revision="refs/heads/cm-14.1" />
+  <project name="ZenfoneXDAVN/android_kernel_asus_T00F" path="kernel/asus/T00F" remote="github" revision="refs/heads/cm-14.1" />
+  <project name="ZenfoneXDAVN/android_vendor_asus" path="vendor/asus" remote="github" revision="refs/heads/cm-14.1" />
+  <project name="ZenfoneXDAVN/android_hardware_intel" path="hardware/intel" remote="github" revision="refs/heads/cm-14.1" />
   
 </manifest>
